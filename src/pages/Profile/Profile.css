@@ -1,0 +1,17 @@
+.inputSession {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 4rem;
+    border-bottom: 1px solid rgb(235, 234, 234);
+}
+
+.urlHeading {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.urlList{
+    padding: 20px 60px;
+
+}
